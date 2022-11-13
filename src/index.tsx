@@ -5,8 +5,6 @@ import { store } from "./store/store";
 
 import "./index.css";
 import App from "./components/App";
-
-
 const container = document.getElementById("root")!;
 const root = createRoot(container);
 
