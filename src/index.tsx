@@ -4,8 +4,9 @@ import { Provider } from "react-redux";
 import { store } from "./store/store";
 
 import "./index.css";
-import App from "./components/App";
+
 import { BrowserRouter } from "react-router-dom";
+import App from "./components/app";
 
 const container = document.getElementById("root")!;
 const root = createRoot(container);
