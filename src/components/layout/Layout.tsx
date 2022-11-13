@@ -1,5 +1,6 @@
 
 import { Outlet } from "react-router-dom";
+import { Header } from "../organisms/header/Header";
 
 const Layout = () => {
   return (
@@ -7,7 +8,7 @@ const Layout = () => {
       id="layout"
       className="layout relative flex flex-col gap-y-[50px] overflow-hidden"
     >
-      <header></header>
+      <Header />
       <main className="container">
         <Outlet />
       </main>
