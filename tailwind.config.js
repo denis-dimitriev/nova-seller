@@ -34,7 +34,7 @@ module.exports = {
         },
         ".container": {
           padding: " 0 10px 0 10px",
-          maxWidth: "1280px",
+          maxWidth: "1920px",
           minWidth: "320px",
           margin: "0 auto",
         },
@@ -45,6 +45,7 @@ module.exports = {
           right: 0,
           zIndex: 100,
           transition: "transform 0.5s cubic-bezier(0.8, 0.2, 0.2, 0.8)",
+          background: "#141416"
         },
         footer: {
           marginTop: "auto",
