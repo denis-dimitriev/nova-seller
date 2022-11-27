@@ -51,7 +51,7 @@
     "all": "Все товары"
   },
   "product": {
-    "bestsellers": "Хит продаж",
+    "bestseller": "Хит продаж",
     "new": "Новинка"
   },
   "customer": {

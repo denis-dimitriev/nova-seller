@@ -51,12 +51,12 @@
     "all": "Toate produsele"
   },
   "product": {
-    "bestsellers": "Hituri vanzari",
+    "bestseller": "Hit vanzari",
     "new": "Nou in stock"
   },
   "customer": {
     "for": "Pentru client",
-    "how-to-buy": "Cum să cumpere",
+    "how-to-buy": "Cum să cumperi",
     "shipping-and-payment": "Livrare si plata",
     "credit": "Credit",
     "privacy-policy": "Politica de Confidențialitate",
