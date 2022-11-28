@@ -1,0 +1,65 @@
+{
+  "user": {
+    "login": "Intra",
+    "register": "Inregistreaza-te",
+    "exit": "Ieșire",
+    "email-or-tel": "E-mail sau telefon",
+    "password": "Parola",
+    "forgot-password": "Ti-ai uitat parola?",
+    "remember-me": "Memorizeazama",
+    "name": "Nume",
+    "email": "E-mail",
+    "number-of-tel": "Număr de telefon",
+    "general-information": "Informatii generale",
+    "personal-data": "Date personale",
+    "purchase-history": "Istoria cumparaturilor",
+    "favorites": "Favorite",
+    "change-password": "Schimbaţi parola"
+  },
+  "store": {
+    "news": "Noutati",
+    "search": "\nCăutare",
+    "more": "Mai mult",
+    "reviews": "Recenzii",
+    "our-advantages": "Avantajele noastre",
+    "jobs": "Joburi",
+    "enter": "Intrare",
+    "registration": "Înregistrare"
+  },
+  "menu": {
+    "catalog": "Catalog",
+    "about": "Despre companie",
+    "promo": "Promotii",
+    "credit": "In rate",
+    "service-and-warranty": "Service si Garantie",
+    "contacts": "Contacte"
+  },
+  "catalog": {
+    "gyro-scooters": "Gyroscuterele",
+    "electric-scooters": "Trotinete electrice",
+    "mono-wheels": "Monoroți",
+    "segways": "Segway-uri",
+    "electric-bikes": "Scootere  electrice",
+    "electric-bicycles": "\nBiciclete electrice",
+    "electric-skateboards": "Skateboard-uri electrice",
+    "accessories": "Accesorii",
+    "smart-watch": "Smart Watch"
+  },
+  "products": {
+    "bestsellers": "Hituri vanzari",
+    "new": "Nou in stock",
+    "all": "Toate produsele"
+  },
+  "product": {
+    "bestseller": "Hit vanzari",
+    "new": "Nou in stock"
+  },
+  "customer": {
+    "for": "Pentru client",
+    "how-to-buy": "Cum să cumperi",
+    "shipping-and-payment": "Livrare si plata",
+    "credit": "Credit",
+    "privacy-policy": "Politica de Confidențialitate",
+    "service-and-warranty": "Service si Garantie"
+  }
+}
